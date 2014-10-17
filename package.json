@@ -12,5 +12,17 @@
     "express": "^4.9.7",
     "lodash": "^2.4.1",
     "ws": "^0.4.32"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LingyuCoder/peertc-server.git"
+  },
+  "keywords": [
+    "webrtc",
+    "datachannel"
+  ],
+  "bugs": {
+    "url": "https://github.com/LingyuCoder/peertc-server/issues"
+  },
+  "homepage": "https://github.com/LingyuCoder/peertc-server"
 }
