@@ -1,6 +1,6 @@
 {
   "name": "peertc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Server side of Peertc, use to send files and messages by webrtc datachannel",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,6 @@
   "author": "skyinlayer",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.9.7",
     "lodash": "^2.4.1",
     "ws": "^0.4.32"
   },
